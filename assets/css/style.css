@@ -247,3 +247,20 @@ h1, h2, h3, h4, h5 {
   margin: 4px 0;
   font-size: 0.92rem;
 }
+
+
+   .whatsapp-btn {
+      display: inline-block;
+      background-color: #25D366;
+      color: white;
+      font-size: 18px;
+      font-weight: bold;
+      padding: 12px 24px;
+      border-radius: 50px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+
+    .whatsapp-btn:hover {
+      background-color: #1DA851;
+    }
